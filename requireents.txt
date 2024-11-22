@@ -1,0 +1,7 @@
+streamlit
+langchain
+huggingface-hub
+faiss-cpu
+google-generativeai
+python-dotenv
+Pillow

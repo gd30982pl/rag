@@ -7,3 +7,4 @@ python-dotenv
 Pillow
 langchain-community
 pypdf
+sentence-transformers
